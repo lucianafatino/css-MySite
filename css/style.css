@@ -54,3 +54,28 @@ a{
     left: 300px;
     position: absolute;
 }
+
+.skill-row{
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%; 
+}
+
+.skill-image1{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.skill-image2{
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.skill-image3{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
